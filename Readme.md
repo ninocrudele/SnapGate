@@ -3,10 +3,10 @@
 Author: Nino Crudele (@ninocrudele)  
 Blog: http://ninocrudele.com
 
-SnapGate is designed to allow end users, developers and IT users to integrate information and data into a variety of applications and systems, simply and easily.
-SnapGate eliminates all existing barriers by providing a new dynamic and easy way to integrate technologies and software.
-SnapGate includes the building blocks developers need to integrate successful, any kind of software and technology, send data across the network and internet, plug-and-play applications, vertical applications and operating systems, everything from track-and-trace to asset tracking, inventory control and system readiness and more, the only limit is our capacity for invention.
-SnapGate connects any kind of technology, custom programs, operating system stacks, it works with any existing line of business applications such as Enterprise Resource Planning (ERP) systems, Warehouse Management Systems (WMS), hardware devices and more specialized vertical software. This flexibility allows it to work seamlessly and in almost all cases automatically with minimal implementation required.
+SnapGate is designed to allow end users, developers and IT users to integrate information and data into a variety of applications and systems and Microsoft Azure, simply and easily.
+SnapGate eliminates all existing barriers by providing a new dynamic and easy way to integrate technologies and Cloud.
+SnapGate includes the building blocks developers need to integrate successful, any kind of software and technology, send data across the Cloud and on-premise, plug-and-play applications, vertical applications and operating systems, everything from track-and-trace to asset tracking, inventory control and system readiness and more, the only limit is our capacity for invention.
+SnapGate connects any kind of technology, Azure, custom programs, operating system stacks, it works with any existing line of business applications such as Enterprise Resource Planning (ERP) systems, Warehouse Management Systems (WMS), hardware devices and more specialized vertical software. This flexibility allows it to work seamlessly and in almost all cases automatically with minimal implementation required.
 
 # Prepare the development environment
 use the Public branch and clone the repository.  
