@@ -1,0 +1,42 @@
+<USING>
+</USING>
+<MAINCODE>
+        static byte[] GenericTransform(List<string> namespaces, List<string> codelines)
+        {
+            var hostObject = new HostContext
+            {
+                DataContext = Encoding.UTF8.GetString(DataContext)
+                //DataContext = message
+            };
+            var roslynEngine = new ScriptEngine();
+            var session = roslynEngine.CreateSession(hostObject);
+            session.AddReference(hostObject.GetType().Assembly);
+
+            foreach (var _namespace in namespaces)
+            {
+                session.ImportNamespace(_namespace);
+
+            }
+            string retValue="";
+
+            foreach (var codeline in codelines)
+            {
+
+
+                retValue = (string)session.Execute(codeline);
+                
+
+               
+            }
+           return Encoding.UTF8.GetBytes(retValue);
+        }
+</MAINCODE>
+<FUNCTIONS>
+    public class HostContext
+    {
+        /// <summary>
+        /// The data context.
+        /// </summary>
+        public string DataContext;
+    }
+</FUNCTIONS>

@@ -1,0 +1,12 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{D438C746-5E75-4D59-B595-8300138FB1EA}",
+		"Name": "Write file in OUT Local",
+		"Description": "Write file in OUT Local",
+		"EventProperties": [{
+			"Name": "OutputDirectory",
+			"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\File2File\\Out\\FileTest.txt"
+		}]
+	}
+}

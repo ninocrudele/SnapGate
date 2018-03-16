@@ -1,0 +1,22 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{A54EDF55-52E9-4D03-B14B-F5D438AF43F1}",
+		"Name": "CSharp Event",
+		"Description": "CSharp Event",
+	"EventProperties": [
+	{
+		"Name": "Script",
+		"Value": "bool b = (bool)DataContext == true;b"
+	},
+	{
+		"Name": "ScriptFile",
+		"Value": ""
+	},
+	{
+		"Name": "MessageProperties",
+		"Value": {"MessageNumber":4}
+	}
+	]
+	}
+}

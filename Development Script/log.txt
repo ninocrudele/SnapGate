@@ -1,0 +1,1482 @@
+
+C:\Users\Administrator\Documents\SnapGate.Framework\Development Script>echo off 
+Build the solution before running the bach.
+..\DefaultFiles\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+..\DefaultFiles\Bubbling\Components\Biztalk Pipeline.cmp
+..\DefaultFiles\Bubbling\Components\Biztalk Transform.cmp
+..\DefaultFiles\Bubbling\Events\Demo AzureBlob.off
+..\DefaultFiles\Bubbling\Events\Demo Chat.evn
+..\DefaultFiles\Bubbling\Events\Demo CSharp.off
+..\DefaultFiles\Bubbling\Events\Demo DialogBox.evn
+..\DefaultFiles\Bubbling\Events\Demo Embedded Event.evn
+..\DefaultFiles\Bubbling\Events\Demo EventHub.evn
+..\DefaultFiles\Bubbling\Events\Demo File Out.evn
+..\DefaultFiles\Bubbling\Events\Demo HTTPSendContentEvent.evn
+..\DefaultFiles\Bubbling\Events\Demo MessageBox.evn
+..\DefaultFiles\Bubbling\Events\Demo PageOneMessageEvent.evn
+..\DefaultFiles\Bubbling\Events\Demo PowerShell Backup.evn
+..\DefaultFiles\Bubbling\Events\Demo Queue.off
+..\DefaultFiles\Bubbling\Events\Demo SQL Bulk Insert.evn
+..\DefaultFiles\Bubbling\Events\Demo Topic.off
+..\DefaultFiles\Bubbling\Events\Demo Twilio.evn
+..\DefaultFiles\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+..\DefaultFiles\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+..\DefaultFiles\Bubbling\Triggers\Demo Notepad Chat.off
+..\DefaultFiles\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+..\DefaultFiles\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+..\DefaultFiles\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+..\DefaultFiles\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+..\DefaultFiles\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+33 File(s) copied
+..\DefaultFiles\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+..\DefaultFiles\Bubbling\Components\Biztalk Pipeline.cmp
+..\DefaultFiles\Bubbling\Components\Biztalk Transform.cmp
+..\DefaultFiles\Bubbling\Events\Demo AzureBlob.off
+..\DefaultFiles\Bubbling\Events\Demo Chat.evn
+..\DefaultFiles\Bubbling\Events\Demo CSharp.off
+..\DefaultFiles\Bubbling\Events\Demo DialogBox.evn
+..\DefaultFiles\Bubbling\Events\Demo Embedded Event.evn
+..\DefaultFiles\Bubbling\Events\Demo EventHub.evn
+..\DefaultFiles\Bubbling\Events\Demo File Out.evn
+..\DefaultFiles\Bubbling\Events\Demo HTTPSendContentEvent.evn
+..\DefaultFiles\Bubbling\Events\Demo MessageBox.evn
+..\DefaultFiles\Bubbling\Events\Demo PageOneMessageEvent.evn
+..\DefaultFiles\Bubbling\Events\Demo PowerShell Backup.evn
+..\DefaultFiles\Bubbling\Events\Demo Queue.off
+..\DefaultFiles\Bubbling\Events\Demo SQL Bulk Insert.evn
+..\DefaultFiles\Bubbling\Events\Demo Topic.off
+..\DefaultFiles\Bubbling\Events\Demo Twilio.evn
+..\DefaultFiles\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+..\DefaultFiles\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+..\DefaultFiles\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+..\DefaultFiles\Bubbling\Triggers\Demo Notepad Chat.off
+..\DefaultFiles\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+..\DefaultFiles\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+..\DefaultFiles\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+..\DefaultFiles\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+..\DefaultFiles\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+33 File(s) copied
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Events\EmbeddedEvent\bin\Debug\SnapGate.Framework.EmbeddedEvent.dll
+1 File(s) copied
+Events\HTTPSendContentEvent\bin\Debug\SnapGate.Framework.HTTPSendContentEvent.dll
+1 File(s) copied
+Events\HM.OMS.PageOneMessageEvent\bin\Debug\HM.OMS.PageOneMessageEvent.dll
+1 File(s) copied
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Events\EmbeddedEvent\bin\Debug\SnapGate.Framework.EmbeddedEvent.pdb
+1 File(s) copied
+Events\HTTPSendContentEvent\bin\Debug\SnapGate.Framework.HTTPSendContentEvent.pdb
+1 File(s) copied
+Events\HM.OMS.PageOneMessageEvent\bin\Debug\HM.OMS.PageOneMessageEvent.pdb
+1 File(s) copied
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+0 File(s) copied
+0 File(s) copied
+0 File(s) copied
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+Batch Files\Create new Clone.cmd
+1 File(s) copied
+Batch Files\Create new Clone.cmd
+1 File(s) copied
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+copy the deployment features
+        1 file(s) copied.
+        1 file(s) copied.
+The system cannot find the path specified.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+..\DefaultFiles\DynamicDeployment\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\GrabCasterComponent.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\GrabCasterComponent.csproj
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\GrabCasterComponent.sln
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Release\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Release\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Release\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\Properties\AssemblyInfo.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\app.config
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\GrabCasterEvent.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\GrabCasterEvent.csproj
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\GrabCasterEvent.sln
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\Sample configuration file to execute GrabCasterEvent event.evn
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll.config
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Release\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Release\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Release\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\Properties\AssemblyInfo.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\app.config
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\GrabCasterTrigger.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\GrabCasterTrigger.csproj
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\GrabCasterTrigger.sln
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll.config
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Properties\AssemblyInfo.cs
+..\DefaultFiles\DynamicDeployment\Publishing\GenericFunctionComponent.component
+..\DefaultFiles\DynamicDeployment\Publishing\Readme
+..\DefaultFiles\DynamicDeployment\Temp\Readme
+92 File(s) copied
+..\DefaultFiles\DynamicDeployment\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\GrabCasterComponent.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\GrabCasterComponent.csproj
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\GrabCasterComponent.sln
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Release\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Release\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\bin\Release\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterComponent\Properties\AssemblyInfo.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\app.config
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\GrabCasterEvent.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\GrabCasterEvent.csproj
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\GrabCasterEvent.sln
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\Sample configuration file to execute GrabCasterEvent event.evn
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll.config
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Release\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Release\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\bin\Release\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterEvent\Properties\AssemblyInfo.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\app.config
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\GrabCasterTrigger.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\GrabCasterTrigger.csproj
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\GrabCasterTrigger.sln
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll.config
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Base.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Contracts.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Log.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+..\DefaultFiles\DynamicDeployment\GrabCasterTrigger\Properties\AssemblyInfo.cs
+..\DefaultFiles\DynamicDeployment\Publishing\GenericFunctionComponent.component
+..\DefaultFiles\DynamicDeployment\Publishing\Readme
+..\DefaultFiles\DynamicDeployment\Temp\Readme
+92 File(s) copied
+..\DefaultFiles\Log\Readme
+..\DefaultFiles\Log\Console\Readme
+2 File(s) copied
+..\DefaultFiles\Log\Readme
+..\DefaultFiles\Log\Console\Readme
+2 File(s) copied
+copy in embedded folder
+Framework\bin\Debug\Create new Clone.cmd
+Framework\bin\Debug\CreateNewClone.cmd
+Framework\bin\Debug\GrabCaster.cfg
+Framework\bin\Debug\GrabCaster.vshost.exe.config
+Framework\bin\Debug\GrabCaster.vshost.exe.manifest
+Framework\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+Framework\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+Framework\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+Framework\bin\Debug\Microsoft.Build.dll
+Framework\bin\Debug\Microsoft.Build.Engine.dll
+Framework\bin\Debug\Microsoft.Build.Framework.dll
+Framework\bin\Debug\Microsoft.Build.Tasks.Core.dll
+Framework\bin\Debug\Microsoft.Build.Utilities.Core.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+Framework\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+Framework\bin\Debug\Microsoft.CodeAnalysis.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+Framework\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+Framework\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+Framework\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+Framework\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+Framework\bin\Debug\Microsoft.CodeAnalysis.xml
+Framework\bin\Debug\Microsoft.Data.Edm.dll
+Framework\bin\Debug\Microsoft.Data.Edm.xml
+Framework\bin\Debug\Microsoft.Data.OData.dll
+Framework\bin\Debug\Microsoft.Data.OData.xml
+Framework\bin\Debug\Microsoft.Data.Services.Client.dll
+Framework\bin\Debug\Microsoft.Data.Services.Client.xml
+Framework\bin\Debug\Microsoft.Samples.Eventing.dll
+Framework\bin\Debug\Microsoft.ServiceBus.dll
+Framework\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+Framework\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+Framework\bin\Debug\Microsoft.ServiceBus.xml
+Framework\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+Framework\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+Framework\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+Framework\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+Framework\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+Framework\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+Framework\bin\Debug\Newtonsoft.Json.dll
+Framework\bin\Debug\Newtonsoft.Json.xml
+Framework\bin\Debug\Phidget21.NET.dll
+Framework\bin\Debug\PipelineObjects.dll
+Framework\bin\Debug\RestSharp.dll
+Framework\bin\Debug\Roslyn.Compilers.CSharp.dll
+Framework\bin\Debug\Roslyn.Compilers.dll
+Framework\bin\Debug\SnapGate.BizTalk.Extensibility.dll
+Framework\bin\Debug\SnapGate.BizTalk.Extensibility.pdb
+Framework\bin\Debug\SnapGate.cfg
+Framework\bin\Debug\SnapGate.exe
+Framework\bin\Debug\SnapGate.exe.config
+Framework\bin\Debug\SnapGate.Framework.Base.dll
+Framework\bin\Debug\SnapGate.Framework.Base.pdb
+Framework\bin\Debug\SnapGate.Framework.Common.dll
+Framework\bin\Debug\SnapGate.Framework.Common.pdb
+Framework\bin\Debug\SnapGate.Framework.Compression.dll
+Framework\bin\Debug\SnapGate.Framework.Compression.pdb
+Framework\bin\Debug\SnapGate.Framework.Contracts.dll
+Framework\bin\Debug\SnapGate.Framework.Contracts.pdb
+Framework\bin\Debug\SnapGate.Framework.Deployment.dll
+Framework\bin\Debug\SnapGate.Framework.Deployment.pdb
+Framework\bin\Debug\SnapGate.Framework.Engine.dll
+Framework\bin\Debug\SnapGate.Framework.Engine.pdb
+Framework\bin\Debug\SnapGate.Framework.Library.dll
+Framework\bin\Debug\SnapGate.Framework.Library.pdb
+Framework\bin\Debug\SnapGate.Framework.Log.dll
+Framework\bin\Debug\SnapGate.Framework.Log.pdb
+Framework\bin\Debug\SnapGate.Framework.Serialization.Object.dll
+Framework\bin\Debug\SnapGate.Framework.Serialization.Object.pdb
+Framework\bin\Debug\SnapGate.Framework.Serialization.Xml.dll
+Framework\bin\Debug\SnapGate.Framework.Serialization.Xml.pdb
+Framework\bin\Debug\SnapGate.Framework.Syncronization.dll
+Framework\bin\Debug\SnapGate.Framework.Syncronization.pdb
+Framework\bin\Debug\SnapGate.pdb
+Framework\bin\Debug\SnapGate.vshost.exe
+Framework\bin\Debug\SnapGate.vshost.exe.config
+Framework\bin\Debug\StackExchange.Redis.dll
+Framework\bin\Debug\StackExchange.Redis.pdb
+Framework\bin\Debug\StackExchange.Redis.xml
+Framework\bin\Debug\System.Collections.Immutable.dll
+Framework\bin\Debug\System.Collections.Immutable.xml
+Framework\bin\Debug\System.Composition.AttributedModel.dll
+Framework\bin\Debug\System.Composition.AttributedModel.xml
+Framework\bin\Debug\System.Composition.Convention.dll
+Framework\bin\Debug\System.Composition.Convention.xml
+Framework\bin\Debug\System.Composition.Hosting.dll
+Framework\bin\Debug\System.Composition.Hosting.xml
+Framework\bin\Debug\System.Composition.Runtime.dll
+Framework\bin\Debug\System.Composition.Runtime.xml
+Framework\bin\Debug\System.Composition.TypedParts.dll
+Framework\bin\Debug\System.Composition.TypedParts.xml
+Framework\bin\Debug\System.Management.Automation.dll
+Framework\bin\Debug\System.Reflection.Metadata.dll
+Framework\bin\Debug\System.Reflection.Metadata.xml
+Framework\bin\Debug\System.Spatial.dll
+Framework\bin\Debug\System.Spatial.xml
+Framework\bin\Debug\Twilio.Api.dll
+Framework\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\de\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\de\System.Spatial.resources.dll
+Framework\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\es\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\es\System.Spatial.resources.dll
+Framework\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\fr\System.Spatial.resources.dll
+Framework\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\it\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\it\System.Spatial.resources.dll
+Framework\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\ja\System.Spatial.resources.dll
+Framework\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\ko\System.Spatial.resources.dll
+Framework\bin\Debug\Log\5132017-15c4a06b-d009-4369-8fad-87de6b1f5bb5.txt
+Framework\bin\Debug\Log\5132017-1cce080f-13c7-4c45-9c79-381d16d78fd7.txt
+Framework\bin\Debug\Log\5132017-2073aca3-621e-4d21-9fd2-619459971d67.txt
+Framework\bin\Debug\Log\5132017-671086f1-b2ac-456a-84c3-2d84e2758586.txt
+Framework\bin\Debug\Log\5132017-84cb39e3-9266-43b7-9cba-a05fcb1bf244.txt
+Framework\bin\Debug\Log\5132017-930445b4-3d95-4bfa-8eae-b198099ff8c8.txt
+Framework\bin\Debug\Log\5132017-be9a1182-5716-4db7-904b-173cb7682728.txt
+Framework\bin\Debug\Log\5142017-67c1e278-16b9-42c6-a183-037be58211ef.txt
+Framework\bin\Debug\Log\5142017-681abeba-fd12-4e1c-81e1-50f12671114a.txt
+Framework\bin\Debug\Log\5142017-71804d97-62e4-4647-9c75-707ea1ace303.txt
+Framework\bin\Debug\Log\5142017-722cc02d-3855-4377-a658-9c094972d548.txt
+Framework\bin\Debug\Log\5142017-73c63b55-39f1-4f4f-85f5-1c5a33a815cf.txt
+Framework\bin\Debug\Log\5142017-7f59440d-4628-4b11-89d1-16a56913d25e.txt
+Framework\bin\Debug\Log\5142017-aeb296be-b0c3-4d16-bde7-f753bba7d19d.txt
+Framework\bin\Debug\Log\5142017-d41e897f-9c93-4955-81b4-57b6bff450da.txt
+Framework\bin\Debug\Log\5142017-e0fe3896-0e6a-4be5-b190-bb1b09e222de.txt
+Framework\bin\Debug\Log\5142017-ff6ea110-199f-4b43-a8ea-9ae595656b83.txt
+Framework\bin\Debug\Log\5152017-025f53f2-9fed-4255-986c-55701ce4e430.txt
+Framework\bin\Debug\Log\5152017-04b5db57-2bf6-43b6-9c99-37ce65e0d4a1.txt
+Framework\bin\Debug\Log\5152017-076f7659-a896-4f63-a08e-c96358bebe5d.txt
+Framework\bin\Debug\Log\5152017-0b247121-490a-4464-8518-6ef3333cec84.txt
+Framework\bin\Debug\Log\5152017-0e0060d5-a22d-4be9-8e06-3b645ecbc7d4.txt
+Framework\bin\Debug\Log\5152017-12f67e07-5068-44e8-91d8-631b4930308c.txt
+Framework\bin\Debug\Log\5152017-13278108-f5f1-4d96-a5c4-ee3c2a9e661f.txt
+Framework\bin\Debug\Log\5152017-132b4b48-9941-410c-b626-1c813cf61c9a.txt
+Framework\bin\Debug\Log\5152017-1b4fbbd2-739d-4275-99ca-a1c53f1253a7.txt
+Framework\bin\Debug\Log\5152017-24cf2999-d761-4ddd-8f97-2797a66dfd64.txt
+Framework\bin\Debug\Log\5152017-2606c3f8-9c78-4cf3-af77-d862d452906f.txt
+Framework\bin\Debug\Log\5152017-2917e043-8280-44db-bb2f-4a93bb486297.txt
+Framework\bin\Debug\Log\5152017-29aa44da-6579-4214-8b55-70dd4be9e7aa.txt
+Framework\bin\Debug\Log\5152017-32b88d7e-b53b-4513-bc4f-760c205998fc.txt
+Framework\bin\Debug\Log\5152017-3527cb47-a6ae-49d5-9d32-afce5d21f4a3.txt
+Framework\bin\Debug\Log\5152017-4d89e32d-3004-4907-95f2-cc15f7263c2a.txt
+Framework\bin\Debug\Log\5152017-4e5dca60-db9b-47ea-a56d-4cd0dafa27b1.txt
+Framework\bin\Debug\Log\5152017-54491c05-c516-4992-af62-d995ddd9b4f9.txt
+Framework\bin\Debug\Log\5152017-63f68d34-820c-4b0f-8b0e-492562140735.txt
+Framework\bin\Debug\Log\5152017-6cd4e3a5-516d-4d58-a783-c401c4267701.txt
+Framework\bin\Debug\Log\5152017-79c807cd-fc63-41fd-9d83-5fd6aa1165f4.txt
+Framework\bin\Debug\Log\5152017-7ad7d4d8-6245-4593-9c87-dc73b78bcf93.txt
+Framework\bin\Debug\Log\5152017-811268e5-a144-457e-9690-61e359fc29c8.txt
+Framework\bin\Debug\Log\5152017-82ccde5d-2c2a-4eca-90c2-554719f6eed1.txt
+Framework\bin\Debug\Log\5152017-86b0a4d0-785c-4325-9158-524a3b7cc85d.txt
+Framework\bin\Debug\Log\5152017-8e07baf2-0a21-4785-8ccc-08e020a03712.txt
+Framework\bin\Debug\Log\5152017-9378767a-90fc-42d3-a7ae-9e7a6245d07a.txt
+Framework\bin\Debug\Log\5152017-9a0d6a94-925c-46a9-8475-cf9cbf87f431.txt
+Framework\bin\Debug\Log\5152017-9dfd3e6a-97c0-46a6-a7cc-f894a328e7ea.txt
+Framework\bin\Debug\Log\5152017-a13ccca0-61ff-424e-b95f-cc647a4caaae.txt
+Framework\bin\Debug\Log\5152017-a55ed2a4-b95e-43a5-a611-98792fedec15.txt
+Framework\bin\Debug\Log\5152017-aaea6d99-80fe-48e6-b2ad-f65c270664b4.txt
+Framework\bin\Debug\Log\5152017-abf4eb77-407f-4e1e-a432-71552d5470a6.txt
+Framework\bin\Debug\Log\5152017-b35ed6b8-c6d3-4747-b0dd-733a6c1ae70c.txt
+Framework\bin\Debug\Log\5152017-baefb0de-9df3-4fde-8c6f-36415753d73c.txt
+Framework\bin\Debug\Log\5152017-bd15a93e-a9e6-4a27-8b1d-9f6f92d49aff.txt
+Framework\bin\Debug\Log\5152017-c59cde41-0ded-4b7f-9e60-8c5366b597a5.txt
+Framework\bin\Debug\Log\5152017-c7d6514f-a6eb-4a46-8d53-d30af0b69fa1.txt
+Framework\bin\Debug\Log\5152017-c834d61c-cf65-45c2-99b5-a7051ebfd7af.txt
+Framework\bin\Debug\Log\5152017-ca6b01d0-c318-462d-8c84-e6581be60bf6.txt
+Framework\bin\Debug\Log\5152017-dfa3c61a-c9f6-45b3-b778-b2b87053efd7.txt
+Framework\bin\Debug\Log\5152017-e5c3d8b0-4aa0-4e2f-b1ac-980d975a0473.txt
+Framework\bin\Debug\Log\Readme
+Framework\bin\Debug\Log\Console\Readme
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Dcp.Azure.dll
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Dcp.Azure.pdb
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Dcp.Redis.dll
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Dcp.Redis.pdb
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Dpp.Azure.dll
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Dpp.Azure.pdb
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Log.AzureTableStorage.dll
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Log.AzureTableStorage.pdb
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Log.EventHubs.dll
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Log.EventHubs.pdb
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Log.File.dll
+Framework\bin\Debug\Root_GrabCaster\GrabCaster.Framework.Log.File.pdb
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Components\Biztalk Pipeline.cmp
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Components\Biztalk Transform.cmp
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo AzureBlob.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo Chat.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo CSharp.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo DialogBox.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo Embedded Event.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo EventHub.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo File Out.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo HTTPSendContentEvent.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo MessageBox.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo PageOneMessageEvent.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo PowerShell Backup.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo Queue.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo SQL Bulk Insert.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo Topic.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Events\Demo Twilio.evn
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo Notepad Chat.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+Framework\bin\Debug\Root_GrabCaster\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+Framework\bin\Debug\Root_GrabCaster\Components\GrabCaster.Framework.BTSPipelineComponent.dll
+Framework\bin\Debug\Root_GrabCaster\Components\GrabCaster.Framework.BTSPipelineComponent.pdb
+Framework\bin\Debug\Root_GrabCaster\Components\GrabCaster.Framework.BTSTransformComponent.dll
+Framework\bin\Debug\Root_GrabCaster\Components\GrabCaster.Framework.BTSTransformComponent.pdb
+Framework\bin\Debug\Root_GrabCaster\Deploy\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\app.config
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\GrabCasterTrigger.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\GrabCasterTrigger.csproj
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\GrabCasterTrigger.sln
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\GrabCasterTrigger\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\Publishing\GenericFunctionComponent.component
+Framework\bin\Debug\Root_GrabCaster\Deploy\Publishing\Readme
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\GrabCasterComponent.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\GrabCasterComponent.csproj
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\GrabCasterComponent.sln
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateComponent\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\app.config
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\GrabCasterEvent.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\GrabCasterEvent.csproj
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\GrabCasterEvent.sln
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\Sample configuration file to execute GrabCasterEvent event.evn
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\SnapGateEvent\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_GrabCaster\Deploy\Temp\Readme
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.AzureBlobEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.AzureBlobEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.AzureQueueEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.AzureQueueEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.AzureTopicEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.AzureTopicEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.BulksqlServerEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.BulksqlServerEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.ChatEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.ChatEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.CSharpEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.CSharpEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.DialogBoxEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.DialogBoxEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.EmbeddedEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.EmbeddedEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.EventHubEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.EventHubEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.FileEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.FileEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.HTTPSendContentEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.HTTPSendContentEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.MessageBoxEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.MessageBoxEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.NopEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.NopEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.PowershellEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.PowershellEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.TwilioEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\GrabCaster.Framework.TwilioEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Events\HM.OMS.PageOneMessageEvent.dll
+Framework\bin\Debug\Root_GrabCaster\Events\HM.OMS.PageOneMessageEvent.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.AzureBlobTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.AzureBlobTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.AzureQueueTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.AzureQueueTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.AzureTopicTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.AzureTopicTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.BulkSqlServerTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.BulkSqlServerTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.ChatTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.ChatTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.CSharpTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.CSharpTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.DynamicRESTTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.DynamicRESTTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EmbeddedTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EmbeddedTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EtwTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EtwTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EventHubsTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EventHubsTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EventViewerTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.EventViewerTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.FileTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.FileTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.NopTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.NopTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.PowerShellTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.PowerShellTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.RfidTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.RfidTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.RunProcess.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.RunProcess.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.SqlServerTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\GrabCaster.Framework.SqlServerTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\HM.OMS.PageOneMessageRESTTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\HM.OMS.PageOneMessageRESTTrigger.pdb
+Framework\bin\Debug\Root_GrabCaster\Triggers\HM.OMS.PageOneMessageTrigger.dll
+Framework\bin\Debug\Root_GrabCaster\Triggers\HM.OMS.PageOneMessageTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Azure.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Azure.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Redis.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Redis.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dpp.Azure.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dpp.Azure.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.AzureTableStorage.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.AzureTableStorage.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.EventHubs.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.EventHubs.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.File.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.File.pdb
+Framework\bin\Debug\Root_SnapGate\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+Framework\bin\Debug\Root_SnapGate\Bubbling\Components\Biztalk Pipeline.cmp
+Framework\bin\Debug\Root_SnapGate\Bubbling\Components\Biztalk Transform.cmp
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo AzureBlob.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Chat.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo CSharp.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo DialogBox.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Embedded Event.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo EventHub.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo File Out.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo HTTPSendContentEvent.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo MessageBox.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo PageOneMessageEvent.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo PowerShell Backup.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Queue.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo SQL Bulk Insert.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Topic.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Twilio.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSPipelineComponent.dll
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSPipelineComponent.pdb
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSTransformComponent.dll
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSTransformComponent.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.csproj
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.sln
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\app.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.csproj
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.sln
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\Sample configuration file to execute GrabCasterEvent event.evn
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\app.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.csproj
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.sln
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\Publishing\GenericFunctionComponent.component
+Framework\bin\Debug\Root_SnapGate\Deploy\Publishing\Readme
+Framework\bin\Debug\Root_SnapGate\Deploy\Temp\Readme
+Framework\bin\Debug\Root_SnapGate\Events\HM.OMS.PageOneMessageEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\HM.OMS.PageOneMessageEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureBlobEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureBlobEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureQueueEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureQueueEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureTopicEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureTopicEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.BulksqlServerEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.BulksqlServerEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.ChatEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.ChatEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.CSharpEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.CSharpEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.DialogBoxEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.DialogBoxEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EmbeddedEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EmbeddedEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EventHubEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EventHubEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.FileEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.FileEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.HTTPSendContentEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.HTTPSendContentEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.MessageBoxEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.MessageBoxEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.NopEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.NopEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.PowershellEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.PowershellEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.TwilioEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.TwilioEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageRESTTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageRESTTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureBlobTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureBlobTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureQueueTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureQueueTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureTopicTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureTopicTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.BulkSqlServerTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.BulkSqlServerTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.ChatTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.ChatTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.CSharpTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.CSharpTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.DynamicRESTTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.DynamicRESTTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EmbeddedTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EmbeddedTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EtwTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EtwTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventHubsTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventHubsTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventViewerTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventViewerTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.FileTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.FileTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.NopTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.NopTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.PowerShellTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.PowerShellTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RfidTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RfidTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RunProcess.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RunProcess.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.SqlServerTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.SqlServerTrigger.pdb
+Framework\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\ru\System.Spatial.resources.dll
+Framework\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\zh-Hans\System.Spatial.resources.dll
+Framework\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+Framework\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+Framework\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+Framework\bin\Debug\zh-Hant\System.Spatial.resources.dll
+595 File(s) copied
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Azure.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Azure.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Redis.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dcp.Redis.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dpp.Azure.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Dpp.Azure.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.AzureTableStorage.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.AzureTableStorage.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.EventHubs.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.EventHubs.pdb
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.File.dll
+Framework\bin\Debug\Root_SnapGate\SnapGate.Framework.Log.File.pdb
+Framework\bin\Debug\Root_SnapGate\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+Framework\bin\Debug\Root_SnapGate\Bubbling\Components\Biztalk Pipeline.cmp
+Framework\bin\Debug\Root_SnapGate\Bubbling\Components\Biztalk Transform.cmp
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo AzureBlob.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Chat.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo CSharp.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo DialogBox.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Embedded Event.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo EventHub.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo File Out.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo HTTPSendContentEvent.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo MessageBox.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo PageOneMessageEvent.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo PowerShell Backup.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Queue.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo SQL Bulk Insert.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Topic.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Events\Demo Twilio.evn
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+Framework\bin\Debug\Root_SnapGate\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSPipelineComponent.dll
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSPipelineComponent.pdb
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSTransformComponent.dll
+Framework\bin\Debug\Root_SnapGate\Components\SnapGate.Framework.BTSTransformComponent.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.csproj
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.sln
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterComponent\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\app.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.csproj
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.sln
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\Sample configuration file to execute GrabCasterEvent event.evn
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterEvent\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\app.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.csproj
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.sln
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll.config
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\GrabCasterTrigger\Properties\AssemblyInfo.cs
+Framework\bin\Debug\Root_SnapGate\Deploy\Publishing\GenericFunctionComponent.component
+Framework\bin\Debug\Root_SnapGate\Deploy\Publishing\Readme
+Framework\bin\Debug\Root_SnapGate\Deploy\Temp\Readme
+Framework\bin\Debug\Root_SnapGate\Events\HM.OMS.PageOneMessageEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\HM.OMS.PageOneMessageEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureBlobEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureBlobEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureQueueEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureQueueEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureTopicEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.AzureTopicEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.BulksqlServerEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.BulksqlServerEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.ChatEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.ChatEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.CSharpEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.CSharpEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.DialogBoxEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.DialogBoxEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EmbeddedEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EmbeddedEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EventHubEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.EventHubEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.FileEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.FileEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.HTTPSendContentEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.HTTPSendContentEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.MessageBoxEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.MessageBoxEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.NopEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.NopEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.PowershellEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.PowershellEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.TwilioEvent.dll
+Framework\bin\Debug\Root_SnapGate\Events\SnapGate.Framework.TwilioEvent.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageRESTTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageRESTTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\HM.OMS.PageOneMessageTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureBlobTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureBlobTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureQueueTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureQueueTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureTopicTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.AzureTopicTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.BulkSqlServerTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.BulkSqlServerTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.ChatTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.ChatTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.CSharpTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.CSharpTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.DynamicRESTTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.DynamicRESTTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EmbeddedTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EmbeddedTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EtwTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EtwTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventHubsTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventHubsTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventViewerTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.EventViewerTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.FileTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.FileTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.NopTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.NopTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.PowerShellTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.PowerShellTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RfidTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RfidTrigger.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RunProcess.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.RunProcess.pdb
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.SqlServerTrigger.dll
+Framework\bin\Debug\Root_SnapGate\Triggers\SnapGate.Framework.SqlServerTrigger.pdb
+211 File(s) copied
+Framework\bin\Release\Create new Clone.cmd
+Framework\bin\Release\CreateNewClone.cmd
+Framework\bin\Release\RestSharp.dll
+Framework\bin\Release\SnapGate.cfg
+Framework\bin\Release\Twilio.Api.dll
+Framework\bin\Release\Root_SnapGate\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+Framework\bin\Release\Root_SnapGate\Bubbling\Components\Biztalk Pipeline.cmp
+Framework\bin\Release\Root_SnapGate\Bubbling\Components\Biztalk Transform.cmp
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo AzureBlob.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Chat.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo CSharp.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo DialogBox.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Embedded Event.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo EventHub.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo File Out.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo HTTPSendContentEvent.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo MessageBox.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo PageOneMessageEvent.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo PowerShell Backup.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Queue.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo SQL Bulk Insert.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Topic.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Twilio.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+Framework\bin\Release\Root_SnapGate\Deploy\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.csproj
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.sln
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\Properties\AssemblyInfo.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\app.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.csproj
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.sln
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\Sample configuration file to execute GrabCasterEvent event.evn
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\Properties\AssemblyInfo.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\app.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.csproj
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.sln
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Properties\AssemblyInfo.cs
+Framework\bin\Release\Root_SnapGate\Deploy\Publishing\GenericFunctionComponent.component
+Framework\bin\Release\Root_SnapGate\Deploy\Publishing\Readme
+Framework\bin\Release\Root_SnapGate\Deploy\Temp\Readme
+130 File(s) copied
+Framework\bin\Release\Root_SnapGate\Bubbling\Chains\Biztalk Pipeline Flat File.chain
+Framework\bin\Release\Root_SnapGate\Bubbling\Components\Biztalk Pipeline.cmp
+Framework\bin\Release\Root_SnapGate\Bubbling\Components\Biztalk Transform.cmp
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo AzureBlob.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Chat.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo CSharp.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo DialogBox.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Embedded Event.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo EventHub.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo File Out.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo HTTPSendContentEvent.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo MessageBox.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo PageOneMessageEvent.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo PowerShell Backup.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Queue.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo SQL Bulk Insert.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Topic.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Events\Demo Twilio.evn
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo EventViewer 2 EventHubs.trg
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 All Notepad.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 BizTalk Server.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local - Chain BizTalk.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_Local 2 Out_Local.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalOverride 2 Out Override Properties.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemote 2 Out.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo File In_LocalRemoteAll 2 Out All Channels All Points.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat 2 TextMessage.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo Notepad Chat.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 ExecuteBackup.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo PowerShell EventViewer 2 TextMessage.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo PowerShell Get File 2 Out_Local.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo SQL Bulk Select 2 SQL Bulk Insert All Points.off
+Framework\bin\Release\Root_SnapGate\Bubbling\Triggers\Demo SQL Select 2 All Notepad.off
+Framework\bin\Release\Root_SnapGate\Deploy\Chains\Sample chain configuration file to execute GrabCasterComponent component.chain
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.csproj
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\GrabCasterComponent.sln
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\Sample configuration file to configure GrabCasterComponent component.cmp
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.Component.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\GrabCasterComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\GrabCaster.Framework.BTSTransformComponent.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterComponent\Properties\AssemblyInfo.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\app.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.csproj
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\GrabCasterEvent.sln
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\Sample configuration file to execute GrabCasterEvent event.evn
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.dll.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\GrabCasterEvent.Event.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\GrabCaster.Framework.EmbeddedEvent.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterEvent\Properties\AssemblyInfo.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\app.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.csproj
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\GrabCasterTrigger.sln
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger and local event.off
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger to Channels and Points.off
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Sample configuration file to execute GrabCasterTrigger trigger using Chain.off
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.dll.config
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Base.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Contracts.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\bin\Release\GrabCaster.Framework.Log.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csproj.FileListAbsolute.txt
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.csprojResolveAssemblyReference.cache
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.dll
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\GrabCasterTrigger.Trigger.pdb
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Framework\bin\Release\Root_SnapGate\Deploy\GrabCasterTrigger\Properties\AssemblyInfo.cs
+Framework\bin\Release\Root_SnapGate\Deploy\Publishing\GenericFunctionComponent.component
+Framework\bin\Release\Root_SnapGate\Deploy\Publishing\Readme
+Framework\bin\Release\Root_SnapGate\Deploy\Temp\Readme
+125 File(s) copied

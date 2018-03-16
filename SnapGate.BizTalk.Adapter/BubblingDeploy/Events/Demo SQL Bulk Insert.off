@@ -1,0 +1,22 @@
+{
+	"Event": {
+		"IdConfiguration": "{3109D8AE-5544-45BB-ACF1-34438A5D1C04}",
+		"IdComponent": "{767D579B-986B-47B1-ACDF-46738434043F}",
+		"Name": "BulkSQLServerEvent Event",
+		"Description": "BulkSQLServerEvent Event",
+	"EventProperties": [
+	{
+		"Name": "TableNameDestination",
+		"Value": "BIGTable2"
+	},
+	{
+		"Name": "BulkSelectQueryDestination",
+		"Value": ""
+	}	,
+	{
+		"Name": "ConnectionString",
+		"Value": "Data Source=.;Initial Catalog=Demo;Integrated Security=True"
+	}
+	]
+	}
+}

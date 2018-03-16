@@ -1,0 +1,9 @@
+{
+	"Event": {
+		"IdConfiguration": "{035B9C88-C4F4-48B9-9AE2-080EF4754E18}",
+		"IdComponent": "{90662D0F-9BBD-4E74-A12D-79BCC0B76BAA}",
+		"Name": "Chat Event",
+		"Description": "Create a P2P chat bridge.",
+		"EventProperties": []
+	}
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2013/CodeSnippet">
+  <Header>
+    <Title>LogMessage</Title>
+    <Author>Nino</Author>
+    <Shortcut>log</Shortcut>
+    <Description>Insert log message</Description>
+    <SnippetTypes>
+      <SnippetType>SurroundsWith</SnippetType>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>message</ID>
+        <Default>my function</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="CSharp">
+      <![CDATA[ LogEngine.WriteLog(ConfigurationBag.EngineName,
+                    "Configuration.WebApiEndPoint key empty, internal Web Api interface disable",
+                    Constant.LogLevelError,
+                    Constant.TaskCategoriesError,
+                    null,
+                    Constant.LogLevelWarning);          
+		]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

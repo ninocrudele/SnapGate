@@ -1,0 +1,33 @@
+{
+  "Trigger": {
+	"IdConfiguration": "{*IDCONFIGURATION*}",
+	"IdComponent": "{*ID*}",
+	"Name": "*NAME*",
+	"Description": "*DESCRIPTION*",
+    "TriggerProperties": [
+		//<PROPERTIES>
+		]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{SET AN ID DESTINATION EVENT CONFIGURATION TO EXECUTE}",
+	"IdComponent": "{SET THE ID DESTINATION EVENT COMPONENT TO EXECUTE}",
+	"Name": "SET ANY EVENT NAME",
+	"Description": "SET ANY EVENT DESCRITION",
+	"Channels": [
+        {
+          "ChannelId": "USE * FOR ALL CHANNELS OR A SPECIFIC ID CHANNEL",
+          "ChannelName": "SET ANY CHANNEL NAME",
+          "ChannelDescription": "SET ANY CHANNEL DESCRIPTION",
+          "Points": [
+            {
+              "PointId": "USE * FOR ALL POINTS IN THE CHANNEL OR A SPECIFIC ID POINT",
+              "Name": "SET ANY POINT NAME",
+              "Description": "SET ANY POINT DESCRIPTION"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

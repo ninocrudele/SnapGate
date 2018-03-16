@@ -1,0 +1,14 @@
+{
+	"Event": {
+		"IdConfiguration": "{2956466a-1fed-4ae2-bb2f-11275620f067}",
+		"IdComponent": "{8c87cf14-7a9c-4a62-91b5-d47cd57695d8}",
+		"Name": "HTTPSendContentEvent Event configuration",
+		"Description": "HTTPSendContentEvent Event configuration",
+		"EventProperties": [
+				{
+		"Name": "url",
+		"Value": "http://win-mt4c625nokv/HMSPGGateway/WcfService_HM_OMS_Common_Processes.svc"
+		}
+		]
+	}
+}

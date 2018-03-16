@@ -1,0 +1,30 @@
+{
+  "Trigger": {
+  	"IdConfiguration": "",
+	"IdComponent": "{18BB5E65-23A2-4743-8773-32F039AA3D16}",
+	"Name": "Powershell Trigger File",
+	"Description": "Powershell Trigger File",
+	"TriggerProperties": [
+	{
+		"Name": "Script",
+		"Value": ""
+	},
+	{
+		"Name": "ScriptFile",
+		"Value": "C:\\Users\\Nino\\Documents\\GrabCaster\\Demo\\GrabCaster1\\Demo\\GetFile.ps1"
+	},
+	{
+		"Name": "MessageProperties",
+		"Value": ""
+	}
+	]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+	"IdComponent": "{D438C746-5E75-4D59-B595-8300138FB1EA}",
+	"Name": "File2File Demo Event ",
+	"Description": "Write file to the GrabCaster Demo OUT local folder"
+    }
+  ]
+}

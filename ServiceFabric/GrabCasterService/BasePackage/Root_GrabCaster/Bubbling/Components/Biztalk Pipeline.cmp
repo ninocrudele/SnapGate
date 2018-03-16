@@ -1,0 +1,21 @@
+	{
+	"Component": {
+		"IdComponent": "{F60C8A3B-0ABD-4595-BCFD-7A2B6DE46EC6}",
+		"Name": "BizTalk pipeline flat file",
+		"Description": "BizTalk pipeline flat file",
+	"ComponentProperties": [
+	{
+		"Name": "AssemblyFile",
+		"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\PipelineLaboratory.dll"
+	},
+	{
+		"Name": "PipelineTypeName",
+		"Value": "PipelineLaboratory.ReceivePipelineFlat"
+	},
+	{
+		"Name": "PipelinePathFile",
+		"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\ReceivePipelineFlat.btp"
+	}
+	]
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{C185F004-62E4-45A4-97B1-BD0D382FFE33}",
+		"Name": "Azure Blob Event",
+		"Description": "Azure Blob Event",
+	"EventProperties": [
+	{
+		"Name": "StorageAccount",
+		"Value": "DefaultEndpointsProtocol=https;AccountName=hyis;AccountKey=HHCLXqg8RnpD1P1mzYwPUxXuQyIcTH59UB9iHJKc2C6R5pAk1+v4uQcIxbDQlH6OoOcTA+Tii151LYL+U0m2ow=="
+	},
+	{
+		"Name": "BlobContainer",
+		"Value": "maingatebank"
+	},
+	{
+		"Name": "BlobBlockReference",
+		"Value": "maingatebankblock"
+	}
+	]
+	}
+}

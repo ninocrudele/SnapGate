@@ -1,0 +1,14 @@
+AzureBlobEvent
+AzureQueueEvent
+AzureTopicEvent
+BULKSQLServerEvent
+ChatEvent
+CSharpEvent
+DialogBoxEvent
+EmbeddedEvent
+EventHubEvent
+FileEvent
+MessageBoxEvent
+NOPEvent
+PowershellEvent
+TwilioEvent

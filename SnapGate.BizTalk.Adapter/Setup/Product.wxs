@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="GrabCaster" Language="1033" Version="1.0.0.0" Manufacturer="GrabCaster Ltd"
+           UpgradeCode="554447c2-fb24-4269-b617-92ceedafdaf1">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate EmbedCab="yes" />
+
+    <!-- Loads images from a folder called Bitmaps located in the Win directory of your project -->
+    <!-- Upper banner image: 493px x 58px -->
+    <WixVariable Id="WixUIBannerBmp" Value=".\Images\Banner.bmp" />
+    <!-- Background images: 493px x 312px -->
+      <WixVariable Id="WixUIDialogBmp" Value=".\Images\Background.bmp" />
+      <WixVariable Id="WixUILicenseRtf" Value="C:\Users\Nino\Documents\GrabCaster\GrabCaster.Framework\DefaultFiles\license.rtf" />
+      <UI Id="UserInterface">
+      <Property Id="WIXUI_INSTALLDIR" Value="INSTALLDIR_GRABCASTER" />
+        <UIRef Id="WixUI_InstallDir" />
+
+          <DialogRef Id="ProgressDlg" />
+          <DialogRef Id="ErrorDlg" />
+          <DialogRef Id="FilesInUse" />
+          <DialogRef Id="FatalError" />
+          <DialogRef Id="UserExit" />
+    </UI>
+
+      <Feature Id="ProductFeature" Title="GrabCaster Setup" Level="1">
+      <ComponentGroupRef Id="SourceComponentGroup" />
+      <ComponentRef Id="ApplicationShortcut" />
+    </Feature>
+
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLDIR_GRABCASTER" Name="GrabCaster">
+          <Directory Id="DesktopFolder" Name="Desktop">
+
+
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+
+
+    <DirectoryRef Id="INSTALLDIR_GRABCASTER">
+      <Component Id="ApplicationShortcut" Guid="8D9CF214-E87C-441D-9B2C-8466E2505C82">
+        <RemoveFolder Id="INSTALLDIR_GRABCASTER" On="uninstall" />
+        <RegistryValue Root="HKCU" Key="Software\Microsoft\GrabCaster" Name="installed" Type="integer" Value="1"
+                       KeyPath="yes" />
+      </Component>
+
+    </DirectoryRef>
+  </Fragment>
+
+</Wix>

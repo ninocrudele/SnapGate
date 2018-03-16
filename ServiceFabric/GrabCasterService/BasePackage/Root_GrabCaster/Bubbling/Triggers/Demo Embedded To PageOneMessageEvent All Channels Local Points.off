@@ -1,0 +1,20 @@
+{
+  "Trigger": {
+	"IdConfiguration": "{DF3F9F3F-938F-43F7-AE39-2DA5F9C1BD9E}",
+	"IdComponent": "{306DE168-1CEF-4D29-B280-225B5D0D76FD}",
+    "Name": "Embedded execution",
+    "Description": "Execute Sent email to all event",
+    "TriggerProperties": [
+		{
+			"Name": "Syncronous",
+			"Value": "true"
+		}]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{BB568779-66ED-44B0-8EB9-E722466523B3}",
+	"IdComponent": "{BC76EEB8-369E-4B0B-BC52-4DFBD4FA33B1}",
+	"Name": "PageOneMessageEvent",
+	"Description": "Sent email to all"}
+			]
+}

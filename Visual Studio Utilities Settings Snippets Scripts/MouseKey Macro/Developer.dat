@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<obprofiles xmlns="http://www.logitech.com/Cassandra/2013.1/OnboardProfile">
+  <profile name="Developer">
+    <device powermode="2" model="Logitech.Gaming.Mouse.G700s" reportrate="500" anglesnapping="0" buttoncount="13">
+      <dpitable defaultindex="2">
+        <dpi x="400" y="400"/>
+        <dpi x="800" y="800"/>
+        <dpi x="1200" y="1200"/>
+        <dpi x="1600" y="1600"/>
+        <dpi x="3200" y="3200"/>
+      </dpitable>
+    </device>
+    <buttons>
+      <button number="1" name="Left Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </button>
+      <button number="2" name="Right Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </button>
+      <button number="3" name="Bookmark">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="B" direction="down"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="B" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+        </multikey>
+      </button>
+      <button number="4" name="Back">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </button>
+      <button number="5" name="Forward">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </button>
+      <button number="8" name="Battery Level (G700s)">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="batterylevel"/>
+        </mousefunction>
+      </button>
+      <button number="9" name="What's up">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+        </multikey>
+      </button>
+      <button number="10" name="Definition">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="F12" direction="down"/>
+          <key value="F12" direction="up"/>
+        </multikey>
+      </button>
+      <button number="11" name="Build">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="B" direction="down"/>
+          <key value="B" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+        </multikey>
+      </button>
+      <button number="12" name="Prev Book">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="B" direction="down"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="B" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+        </multikey>
+      </button>
+      <button number="13" name="Next Book">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="B" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="B" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+        </multikey>
+      </button>
+    </buttons>
+  </profile>
+</obprofiles>

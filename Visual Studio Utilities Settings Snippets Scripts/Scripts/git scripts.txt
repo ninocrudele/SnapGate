@@ -1,0 +1,28 @@
+git subtree add --prefix Events https://ninocrudele@github.com/ninocrudele/GrabCaster.SDK.Events.git master --squash
+git subtree add --prefix Triggers https://github.com/ninocrudele/GrabCaster.SDK.Triggers.git master --squash
+
+
+git remote add -f Events https://ninocrudele@github.com/ninocrudele/GrabCaster.SDK.Events.git
+git merge -s ours --no-commit Events/master
+Create the Events directory
+git read-tree --prefix=Events/ -u Events/master
+git commit -m "Subtree merged in Events"
+
+To keep update the subtree:
+git pull -s subtree Events master
+git subtree push --prefix=Events https://ninocrudele@github.com/ninocrudele/GrabCaster.SDK.Events.git master
+
+
+git remote add -f Triggers https://github.com/ninocrudele/GrabCaster.SDK.Triggers.git
+git merge -s ours --no-commit Triggers/master
+Create the Triggers directory
+git read-tree --prefix=Triggers/ -u Triggers/master
+git commit -m "Subtree merged in Triggers"
+
+To keep update the subtree:
+git pull -s subtree Triggers master
+
+
+Commit all
+git commit -am "test script commit"
+git push -u origin master

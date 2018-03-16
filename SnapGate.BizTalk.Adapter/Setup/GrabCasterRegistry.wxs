@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="TARGETDIR">
+            <Component Id="cmp5C53951D02216637445C5646F185D556" Guid="PUT-GUID-HERE" KeyPath="yes">
+                <RegistryKey ForceCreateOnInstall="yes" Key="CLSID\{62018D08-281A-415b-A6D3-6172E3762867}\Implemented Categories\{7F46FC3E-3C2C-405B-A47F-8D17942BA8F9}" Root="HKCR" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="TARGETDIR">
+            <Component Id="cmp856FD50BA5CEB57A4F131AB1CA31868B" Guid="PUT-GUID-HERE" KeyPath="yes">
+                <RegistryKey Key="CLSID\{62018D08-281A-415b-A6D3-6172E3762867}" Root="HKCR">
+                    <RegistryValue Value="GrabCaster Adapter" Type="string" />
+                    <RegistryValue Name="AppID" Value="{12A6EBAA-CF68-4B58-B36E-A5A19B22C04E}" Type="string" />
+                </RegistryKey>
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="TARGETDIR">
+            <Component Id="cmpCD5CA8B929AAEFF8D3D71BF373AE5644" Guid="PUT-GUID-HERE" KeyPath="yes">
+                <RegistryKey ForceCreateOnInstall="yes" Key="CLSID\{62018D08-281A-415b-A6D3-6172E3762867}\Implemented Categories" Root="HKCR" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <DirectoryRef Id="TARGETDIR">
+            <Component Id="cmpED0C191AE97ECA68229AE3D847A1479A" Guid="PUT-GUID-HERE" KeyPath="yes">
+                <RegistryKey Key="CLSID\{62018D08-281A-415b-A6D3-6172E3762867}\BizTalk" Root="HKCR">
+                    <RegistryValue Value="BizTalk" Type="string" />
+                    <RegistryValue Name="TransportType" Value="GrabCaster-Messaging" Type="string" />
+                    <RegistryValue Name="Constraints" Value="15371" Type="integer" />
+                </RegistryKey>
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+</Wix>

@@ -1,0 +1,17 @@
+{
+	"Event": {
+		"IdConfiguration": "{2BF93541-E219-4EEB-B44E-45745597E760}",
+		"IdComponent": "{F9A0B69C-64D3-4120-A52D-09D2E014EA91}",
+		"Name": "PowerShell Event",
+		"Description": "PowerShell Event",
+	"EventProperties": [
+	{
+		"Name": "ScriptEvent",
+		"Value": ""
+	},
+	{
+		"Name": "ScriptFileEvent",
+		"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\ExecAppBackup.ps1"
+	}]
+	}
+}

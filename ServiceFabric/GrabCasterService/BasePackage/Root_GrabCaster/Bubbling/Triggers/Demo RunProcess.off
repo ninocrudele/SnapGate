@@ -1,0 +1,38 @@
+{
+	"Trigger" : {
+		"IdConfiguration" : "",
+		"IdComponent" : "{B7226137-DFF7-44BD-9E48-42B5AC7AF730}",
+		"Name" : "Execute SPG Process",
+		"Description" : "Execute the SPG batch as a service",
+		"TriggerProperties" : [{
+				"Name" : "ProcessPathFileName",
+				"Value" : "C:\\opt\\spg\\apache-servicemix-6.0.0\\bin\\servicemix.bat"
+			}, {
+				"Name" : "ProcessStyle",
+				"Value" : "Normal"
+			}, {
+				"Name" : "Domain",
+				"Value" : "."
+			}, {
+				"Name" : "User",
+				"Value" : "spg"
+			}, {
+				"Name" : "Password",
+				"Value" : "1234321"
+			}, {
+				"Name" : "AlwaysRun",
+				"Value" : "false"
+			}, {
+				"Name" : "ExecuteEventAfterRun",
+				"Value" : "false"
+			}
+		]
+	},
+	"Events" : [{
+			"IdConfiguration" : "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+			"IdComponent" : "{D438C746-5E75-4D59-B595-8300138FB1EA}",
+			"Name" : "File2File Demo Event ",
+			"Description" : "Write file to the GrabCaster Demo OUT folder"
+		}
+	]
+}

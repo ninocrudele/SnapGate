@@ -1,0 +1,26 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{A5765B22-4003-4463-AB93-EEB5C0C477FE}",
+		"Name": "Twillio Event",
+		"Description": "Twillio Event",
+	"EventProperties": [
+	{
+		"Name": "AccountSid",
+		"Value": "AC6c404a0727f404121c1a9df44762a1b3"
+	},
+	{
+		"Name": "AuthToken",
+		"Value": "44030dc4a49f2ae0e66682405a2d0819"
+	},
+	{
+		"Name": "From",
+		"Value": "+441268833010"
+	},
+	{
+		"Name": "To",
+		"Value": "+447585603729"
+	}
+	]
+	}
+}

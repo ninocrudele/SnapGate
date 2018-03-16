@@ -1,0 +1,31 @@
+{
+  "Trigger": {
+		"IdConfiguration": "",
+		"IdComponent": "{18BB5E65-23A2-4743-8773-32F039AA3D16}",
+		"Name": "Powershell Trigger",
+		"Description": "Powershell Trigger",
+	"TriggerProperties": [
+	{
+		"Name": "Script",
+		"Value": "Param($DataContext)
+					$DataContext = Get-Eventlog -log application -after ((get-date).AddSeconds(-2)) -EntryType Error | Where-Object {($_.Source -eq 'DEMONOTEPAD')}"
+	},
+	{
+		"Name": "ScriptFile",
+		"Value": ""
+	},
+	{
+		"Name": "MessageProperties",
+		"Value": "MessageNumber"
+	}
+	]
+	},
+  "Events": [
+    {
+		"IdConfiguration": "{035B9C88-C4F4-48B9-9AE2-080EF4754E18}",
+		"IdComponent": "{90662D0F-9BBD-4E74-A12D-79BCC0B76BAA}",
+		"Name": "Event Notepad",
+		"Description": "Event Notepad"
+    }
+  ]
+}

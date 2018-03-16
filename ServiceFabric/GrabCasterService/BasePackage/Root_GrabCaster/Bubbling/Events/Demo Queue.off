@@ -1,0 +1,18 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{628CB14D-7F85-4D99-8EC6-489EBA25C38A}",
+		"Name": "Azure Queue Event",
+		"Description": "Azure Queue Event",
+	"EventProperties": [
+	{
+		"Name": "ConnectionString",
+		"Value": "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=uxlUw5J2YSUj5EBlh8FFv6R0RKLNUx6gfem2VsvgIKw="
+	},
+	{
+		"Name": "QueuePath",
+		"Value": "TestQueue"
+	}
+	]
+}
+}

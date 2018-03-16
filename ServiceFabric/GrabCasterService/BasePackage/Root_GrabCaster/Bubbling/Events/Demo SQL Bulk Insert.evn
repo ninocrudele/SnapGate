@@ -1,0 +1,22 @@
+{
+	"Event": {
+		"IdConfiguration": "{3109D8AE-5544-45BB-ACF1-34438A5D1C04}",
+		"IdComponent": "{767D579B-986B-47B1-ACDF-46738434043F}",
+		"Name": "BulkSQLServerEvent Event",
+		"Description": "BulkSQLServerEvent Event",
+	"EventProperties": [
+	{
+		"Name": "TableNameDestination",
+		"Value": "BIGTable2"
+	},
+	{
+		"Name": "BulkSelectQueryDestination",
+		"Value": ""
+	}	,
+	{
+		"Name": "ConnectionString",
+		"Value": "Data Source=tbd8toaqap.database.windows.net;Initial Catalog=Demo;Persist Security Info=True;User ID=nino@tbd8toaqap;Password=t3st3d1k@y@k"
+	}
+	]
+	}
+}

@@ -1,0 +1,17 @@
+	{
+	"Component": {
+		"IdComponent": "{EFA41557-6AE0-4880-B8B2-EE3DF2C1E48E}",
+		"Name": "BizTalk transform demo",
+		"Description": "BizTalk transform demo",
+	"ComponentProperties": [
+	{
+		"Name": "AssemblyFile",
+		"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\PipelineLaboratory.dll"
+	},
+	{
+		"Name": "TransformTypeName",
+		"Value": "PipelineLaboratory.Map1"
+	}
+	]
+	}
+}

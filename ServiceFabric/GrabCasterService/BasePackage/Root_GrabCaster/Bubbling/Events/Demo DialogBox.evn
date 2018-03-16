@@ -1,0 +1,8 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{39AD14F3-009E-45EE-83B6-CECD51E6A242}",
+		"Description": "Show a Dialog box",
+		"Name": "Show a Dialog box"
+	}
+}

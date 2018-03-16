@@ -1,0 +1,12 @@
+{
+	"Chain": {
+		"idChain": "{*ID*}",
+		"Name": "SET ANY CHAIN NAME",
+		"Description": "SET ANY CHAIN DESCRIPTION",
+	"Components": [
+	{
+		"idComponent": "{*IDCOMPONENT*}"
+	}
+	]
+	}
+}

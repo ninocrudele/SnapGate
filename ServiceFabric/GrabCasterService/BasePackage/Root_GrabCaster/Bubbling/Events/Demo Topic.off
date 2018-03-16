@@ -1,0 +1,22 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{B2311010-B505-4F9F-A927-2035A7640BCB}",
+		"Name": "Azure Topic Event",
+		"Description": "Azure Topic Event",
+	"EventProperties": [
+	{
+		"Name": "ConnectionString",
+		"Value": "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=uxlUw5J2YSUj5EBlh8FFv6R0RKLNUx6gfem2VsvgIKw="
+	},
+	{
+		"Name": "TopicPath",
+		"Value": "TestTopic"
+	},
+	{
+		"Name": "MessageContextProperties",
+		"Value": "EventViewerSource|DEMO"
+	}
+	]
+	}
+}

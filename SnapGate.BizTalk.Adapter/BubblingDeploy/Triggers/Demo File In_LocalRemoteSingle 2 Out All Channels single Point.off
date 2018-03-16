@@ -1,0 +1,46 @@
+{
+  "Trigger": {
+	"IdConfiguration": "",
+    "IdComponent": "{3C62B951-C353-4899-8670-C6687B6EAEFC}",
+    "Name": "Sample File Trigger to all channell and specific point.",
+    "Description": "Get file from In_LocalRmoteSingle folder and execute the event to write the file in the Out folder in all channel for the specific point id {B0A46E60-443C-4E8A-A6ED-7F2CB34CF9E6}",
+    "TriggerProperties": [{
+			"Name": "RegexFilePattern",
+			"Value": ".(txt|a)"
+		},
+		{
+			"Name": "DoneExtensionName",
+			"Value": "done"
+		},
+		{
+			"Name": "PollingTime",
+			"Value": "5000"
+		},
+		{
+			"Name": "InputDirectory",
+			"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\File2File\\In_LocalRemoteSingle"
+		}]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+	"IdComponent": "{D438C746-5E75-4D59-B595-8300138FB1EA}",
+	"Name": "File2File Demo Event ",
+	"Description": "Write file to the GrabCaster Demo OUT remote local folder",
+	"Channels": [
+        {
+          "ChannelId": "*",
+          "ChannelName": "All Channels",
+          "ChannelDescription": "Channel Description",
+          "Points": [
+            {
+              "PointId": "{B0A46E60-443C-4E8A-A6ED-7F2CB34CF9E6}",
+              "Name": "NY Point",
+              "Description": "Point Located in NY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

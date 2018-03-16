@@ -1,0 +1,24 @@
+{
+  "Trigger": {
+	"IdConfiguration": "{*IDCONFIGURATION*}",
+	"IdComponent": "{*ID*}",
+	"Name": "*NAME*",
+	"Description": "*DESCRIPTION*",
+	"Chains": [{
+			"IdChain": "{SET AN ID CHAIN TO EXECUTE}",
+			"Name": "SET ANY CHAIN NAME",
+			"Description": "SET ANY CHAIN DESCRIPTION"
+		}],
+    "TriggerProperties": [
+		//<PROPERTIES>
+		]
+	},
+  "Events": [
+    {
+		"IdConfiguration": "{SET AN ID DESTINATION EVENT CONFIGURATION TO EXECUTE}",
+		"IdComponent": "{SET THE ID DESTINATION EVENT COMPONENT TO EXECUTE}",
+		"Name": "SET ANY EVENT NAME",
+		"Description": "SET ANY EVENT DESCRITION"
+    }
+  ]
+}

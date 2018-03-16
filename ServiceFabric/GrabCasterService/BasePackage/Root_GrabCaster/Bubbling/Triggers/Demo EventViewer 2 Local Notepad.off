@@ -1,0 +1,22 @@
+{
+  "Trigger": {
+		"IdConfiguration": "",
+		"IdComponent": "{843008B6-F4E1-4A29-8082-BDC111EA0E99}",
+		"Name": "Event Viewer Trigger",
+		"Description": "Event Viewer Trigger",
+	"TriggerProperties": [
+	{
+		"Name": "EventLog",
+		"Value": "Application"
+	}
+	]
+	},
+  "Events": [
+    {
+		"IdConfiguration": "{035B9C88-C4F4-48B9-9AE2-080EF4754E18}",
+		"IdComponent": "{90662D0F-9BBD-4E74-A12D-79BCC0B76BAA}",
+		"Name": "Event Notepad",
+		"Description": "Event Notepad"
+    }
+  ]
+}

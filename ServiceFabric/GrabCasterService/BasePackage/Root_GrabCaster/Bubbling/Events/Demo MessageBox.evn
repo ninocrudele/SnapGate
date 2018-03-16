@@ -1,0 +1,8 @@
+{
+	"Event": {
+		"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+		"IdComponent": "{DC78440A-E82B-4A5C-B4C5-C78CC40472BD}",
+		"Description": "Show a message box",
+		"Name": "Show a message box"
+	}
+}

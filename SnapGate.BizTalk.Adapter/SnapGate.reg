@@ -1,0 +1,37 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{62018D08-281A-415b-A6D3-6172E3762867}]
+@="SnapGate Adapter"
+"AppID"="{12A6EBAA-CF68-4B58-B36E-A5A19B22C04E}"
+
+[HKEY_CLASSES_ROOT\CLSID\{62018D08-281A-415b-A6D3-6172E3762867}\BizTalk]
+@="BizTalk"
+"TransportType"="SnapGate-Messaging"
+"Constraints"=dword:00003C0b
+
+"InboundProtocol_PageProv"="{2DE93EE6-CB01-4007-93E9-C3D71689A281}"
+"OutboundProtocol_PageProv"="{2DE93EE6-CB01-4007-93E9-C3D71689A283}"
+"ReceiveLocation_PageProv"="{2DE93EE6-CB01-4007-93E9-C3D71689A280}"
+"TransmitLocation_PageProv"="{2DE93EE6-CB01-4007-93E9-C3D71689A282}"
+
+"InboundEngineCLSID"="{3D4B599E-2202-4bbb-9FC6-7ACA3906E5DE}"
+"InboundTypeName"="SnapGate.Framework.BizTalk.Adapter.SnapGateReceiver"
+"InboundAssemblyPath"="C:\\Program Files (x86)\\Microsoft BizTalk Server 2016\\SnapGate.Framework.BizTalk.Adapter.dll"
+"OutboundEngineCLSID"="{024DB758-AAF9-415e-A121-4AC245DD49EC}"
+"OutboundTypeName"="SnapGate.Framework.BizTalk.Adapter.SnapGateTransmitter"
+"OutboundAssemblyPath"="C:\\Program Files (x86)\\Microsoft BizTalk Server 2016\\SnapGate.Framework.BizTalk.Adapter.dll"
+
+"AdapterMgmtTypeName"="SnapGate.Framework.BizTalk.Adapter.Designtime.StaticAdapterManagement"
+"AdapterMgmtAssemblyPath"="C:\\Program Files (x86)\\Microsoft BizTalk Server 2016\\SnapGate.Framework.BizTalk.Adapter.Designtime.dll"
+
+"PropertyNameSpace"="http://schemas.microsoft.com/BizTalk/2003/SDK_Samples/Messaging/Transports/SnapGate-properties"
+"AliasesXML"="<AdapterAliasList><AdapterAlias>SnapGate://</AdapterAlias></AdapterAliasList>"
+"ReceiveHandlerPropertiesXML"="<CustomProps><AdapterConfig vt=\"8\"/></CustomProps>"
+"SendHandlerPropertiesXML"="<CustomProps><AdapterConfig vt=\"8\"/></CustomProps>"
+"ReceiveLocationPropertiesXML"="<CustomProps><AdapterConfig vt=\"8\"/></CustomProps>"
+"SendLocationPropertiesXML"="<CustomProps><AdapterConfig vt=\"8\"/></CustomProps>"
+
+
+[HKEY_CLASSES_ROOT\CLSID\{62018D08-281A-415b-A6D3-6172E3762867}\Implemented Categories]
+
+[HKEY_CLASSES_ROOT\CLSID\{62018D08-281A-415b-A6D3-6172E3762867}\Implemented Categories\{7F46FC3E-3C2C-405B-A47F-8D17942BA8F9}]

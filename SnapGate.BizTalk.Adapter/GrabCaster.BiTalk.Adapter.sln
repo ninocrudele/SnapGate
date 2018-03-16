@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BaseAdapter", "BaseAdapter", "{E783A89D-58CE-4245-B2E8-8CBD0E0ECAAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design Time", "Design Time", "{BA5D85AE-11C0-4AED-B0D9-1DA3B75206A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Runtime", "Runtime", "{B5083C17-4921-4934-9316-F5D16E85F4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabCaster.Framework.BizTalk.Common", "BaseAdapter\v1.0.2\GrabCaster.Framework.BizTalk.Common.csproj", "{44B780E7-6D79-4BAF-9994-28CFFA1172A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterManagement", "Design Time\Adapter Management\AdapterManagement.csproj", "{2517F73A-C428-42DD-8A90-094E446ABC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabCasterAdapter", "Runtime\GrabCasterAdapter.csproj", "{C579C9EC-B584-4B82-94DD-E6304D61B2DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Register Adapter", "Register Adapter", "{BA1ED3A8-7091-430B-8B65-FDAA3D27A1A1}"
+	ProjectSection(SolutionItems) = preProject
+		GrabCaster.reg = GrabCaster.reg
+		Register BizTalk Adapter.txt = Register BizTalk Adapter.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BizTalk Project", "BizTalk Project", "{7943AFEE-CEEF-477C-8AD4-DE9900181F00}"
+	ProjectSection(SolutionItems) = preProject
+		GrabCaster.BizTalk.Sample.zip = GrabCaster.BizTalk.Sample.zip
+		Schemas.zip = Schemas.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Development Script", "Development Script", "{3CAA3246-8651-48B2-9CE7-8A03EDDEC6A7}"
+	ProjectSection(SolutionItems) = preProject
+		Development Script\PrepareDeployPackage.cmd = Development Script\PrepareDeployPackage.cmd
+	EndProjectSection
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "GrabCasterBizTalkAdapter.Setup", "Setup\GrabCasterBizTalkAdapter.Setup.wixproj", "{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Debug|x86.Build.0 = Debug|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Release|x86.ActiveCfg = Release|Any CPU
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6}.Release|x86.Build.0 = Release|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Debug|x86.Build.0 = Debug|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Release|x86.ActiveCfg = Release|Any CPU
+		{2517F73A-C428-42DD-8A90-094E446ABC5E}.Release|x86.Build.0 = Release|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Debug|x86.Build.0 = Debug|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD}.Release|x86.Build.0 = Release|Any CPU
+		{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}.Debug|x86.ActiveCfg = Debug|x86
+		{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}.Debug|x86.Build.0 = Debug|x86
+		{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}.Release|Any CPU.ActiveCfg = Release|x86
+		{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}.Release|x86.ActiveCfg = Release|x86
+		{87FA5D66-EE9F-4200-AD36-16E53CFF5A00}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44B780E7-6D79-4BAF-9994-28CFFA1172A6} = {E783A89D-58CE-4245-B2E8-8CBD0E0ECAAA}
+		{2517F73A-C428-42DD-8A90-094E446ABC5E} = {BA5D85AE-11C0-4AED-B0D9-1DA3B75206A3}
+		{C579C9EC-B584-4B82-94DD-E6304D61B2DD} = {B5083C17-4921-4934-9316-F5D16E85F4F5}
+	EndGlobalSection
+EndGlobal

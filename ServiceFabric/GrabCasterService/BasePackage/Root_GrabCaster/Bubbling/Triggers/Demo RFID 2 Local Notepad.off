@@ -1,0 +1,16 @@
+{
+  "Trigger": {	
+	"IdConfiguration": "",
+    "IdComponent": "{782B745E-1F6F-440A-A209-E250A1EA5013}",
+    "Name": "Rfid Trigger",
+    "Description": "Read Rfid Tag from a Pidget device"
+	},
+  "Events": [
+    {
+		"IdConfiguration": "{035B9C88-C4F4-48B9-9AE2-080EF4754E18}",
+		"IdComponent": "{90662D0F-9BBD-4E74-A12D-79BCC0B76BAA}",
+		"Name": "Event Notepad",
+		"Description": "Event Notepad"
+    }
+  ]
+}

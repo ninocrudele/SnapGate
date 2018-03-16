@@ -1,0 +1,15 @@
+{
+	"Chain": {
+		"idChain": "{F60C8A3B-0ABD-4595-BCFD-7A2B6DE46EC6}",
+		"Name": "BizTalk pipeline flat file",
+		"Description": "BizTalk pipeline flat file",
+	"Components": [
+	{
+		"idComponent": "{F60C8A3B-0ABD-4595-BCFD-7A2B6DE46EC6}"
+	},
+	{
+		"idComponent": "{EFA41557-6AE0-4880-B8B2-EE3DF2C1E48E}"
+	}
+	]
+	}
+}

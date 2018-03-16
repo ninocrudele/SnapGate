@@ -1,0 +1,22 @@
+{
+  "Trigger": {
+		"IdConfiguration": "",
+		"IdComponent": "{843008B6-F4E1-4A29-8082-BDC111EA0E99}",
+		"Name": "Event Viewer Trigger",
+		"Description": "Event Viewer Trigger",
+	"TriggerProperties": [
+	{
+		"Name": "EventLog",
+		"Value": "Application"
+	}
+	]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+	"IdComponent": "{F249290E-0231-44A9-A348-1CC7FCC33C7F}",
+	"Name": "Event Hub Event",
+	"Description": "Event Hub Event"
+    }
+  ]
+}

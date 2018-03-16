@@ -1,0 +1,24 @@
+{
+	"Event": {
+		"IdConfiguration": "{BB568779-66ED-44B0-8EB9-E722466523B3}",
+		"IdComponent": "{BC76EEB8-369E-4B0B-BC52-4DFBD4FA33B1}",
+		"Name": "PageOneMessageEvent",
+		"Description": "Sent email to all",
+		"EventProperties": [{
+			"Name": "input",
+			"Value": ""
+		},
+		{
+			"Name": "From",
+			"Value": ""
+		},
+		{
+			"Name": "To",
+			"Value": ""
+		},
+		{
+			"Name": "Message",
+			"Value": ""
+		}]
+	}
+}

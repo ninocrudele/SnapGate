@@ -1,0 +1,10 @@
+	{
+	"Component": {
+		"IdComponent": "{*ID*}",
+		"Name": "*NAME*",
+		"Description": "*DESCRIPTION*",
+	"ComponentProperties": [
+		//<PROPERTIES>
+	]
+	}
+}

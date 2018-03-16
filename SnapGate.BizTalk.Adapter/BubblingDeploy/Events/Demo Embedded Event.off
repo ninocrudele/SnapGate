@@ -1,0 +1,8 @@
+{
+	"Event": {
+	    "IdConfiguration": "{DF3F9F3F-938F-43F7-AE39-2DA5F9C1BD9E}",
+	    "IdComponent": "{A31209D7-C989-4E5D-93DA-BD341D843870}",
+		"Description": "Embedded event",
+		"Name": "Embedded event"
+	}
+}

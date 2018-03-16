@@ -1,0 +1,3 @@
+﻿Linkes:
+https://msdn.microsoft.com/en-us/library/aa559715.aspx
+https://msdn.microsoft.com/en-us/library/aa548029.aspx

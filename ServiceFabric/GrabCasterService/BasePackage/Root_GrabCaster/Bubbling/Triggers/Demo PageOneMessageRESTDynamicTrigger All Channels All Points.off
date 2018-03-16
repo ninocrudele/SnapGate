@@ -1,0 +1,39 @@
+{
+  "Trigger": {
+  	"IdConfiguration": "{8F2BDC5C-D83A-4E14-9FC0-718DA51EB8AB}",
+    "IdComponent": "{95C6319B-35B6-4AB0-88F8-49A6E332D270}",
+    "Name": "PageOneMessageTrigger",
+    "Description": "Sent email to all",
+    "TriggerProperties": [
+		{
+			"Name": "WebApiEndPoint",
+			"Value": "http://localhost:8005"
+		},
+		{
+			"Name": "Behaviour",
+			"Value": "SyncAsync"
+		}]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{BB568779-66ED-44B0-8EB9-E722466523B3}",
+	"IdComponent": "{BC76EEB8-369E-4B0B-BC52-4DFBD4FA33B1}",
+	"Name": "PageOneMessageEvent",
+	"Description": "Sent email to all",
+	"Channels": [
+        {
+          "ChannelId": "*",
+          "ChannelName": "SPG Secure Channel",
+          "ChannelDescription": "SPG Secure Channel",
+          "Points": [
+            {
+              "PointId": "*",
+              "Name": "SPG Secure Gateway",
+              "Description": "SPG Secure Gateway"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

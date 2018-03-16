@@ -1,0 +1,11 @@
+{
+	"Event": {
+		"IdConfiguration": "{*IDCONFIGURATION*}",
+		"IdComponent": "{*ID*}",
+		"Name": "*NAME*",
+		"Description": "*DESCRIPTION*",
+		"EventProperties": [
+		//<PROPERTIES>
+		]
+	}
+}

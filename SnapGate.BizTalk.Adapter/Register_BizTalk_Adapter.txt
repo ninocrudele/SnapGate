@@ -1,0 +1,13 @@
+If you install BizTalk on a 64 bit machine:
+
+In the Windows search put %windir%\SysWoW64\cmd.exe and rigth click and Run As Administrator, press enter
+Navigate to C:\Program Files (x86)\Microsoft BizTalk Server 2013 R2 folder
+Execute GrabCaster.reg
+Enter in then BizTalk Administration Console and register the new adapter.
+
+If you install BizTalk on a 32 bit machine:
+
+In the Windows search put cmd.exe and rigth click and Run As Administrator, press enter
+Navigate to C:\Program Files (x86)\Microsoft BizTalk Server 2013 R2 folder
+Execute GrabCaster.reg
+Enter in then BizTalk Administration Console and register the new adapter.

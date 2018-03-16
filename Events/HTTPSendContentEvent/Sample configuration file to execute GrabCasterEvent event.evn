@@ -1,0 +1,15 @@
+{
+	"Event": {
+		"IdConfiguration": "{5f37d248-b77c-4e1c-99e7-0d0eb9f5b2a9}",
+		"IdComponent": "{a4c6ea2e-6c67-4bf7-92b4-3156472cba3a}",
+		"Name": "HTTPSendContentEvent Event configuration",
+		"Description": "HTTPSendContentEvent Event configuration",
+		"EventProperties": [
+				{
+		"Name": "url"
+		"Value": ""
+		}
+
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{
+  "Trigger": {
+	"IdConfiguration": "",
+    "IdComponent": "{3C62B951-C353-4899-8670-C6687B6EAEFC}",
+    "Name": "Sample File Trigger to override the destination properties.",
+    "Description": "Get file from In_LocalOverride folder and execute the event to write the file in the Out_Override folder overriding the destination properties.",
+    "TriggerProperties": [{
+			"Name": "RegexFilePattern",
+			"Value": ".(txt|a)"
+		},
+		{
+			"Name": "DoneExtensionName",
+			"Value": "done"
+		},
+		{
+			"Name": "PollingTime",
+			"Value": "5000"
+		},
+		{
+			"Name": "InputDirectory",
+			"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\File2File\\In_LocalOverride"
+		}]
+	},
+  "Events": [
+    {
+	"IdConfiguration": "{F4CF1B12-4EC4-43FA-8842-575A5E4CDE5A}",
+	"IdComponent": "{D438C746-5E75-4D59-B595-8300138FB1EA}",
+	"Name": "Write File Event",
+	"Description": "Write file to the GrabCaster Out_Override local folder",
+	"EventProperties": [{
+			"Name": "OutputDirectory",
+			"Value": "C:\\Program Files (x86)\\GrabCaster\\Demo\\File2File\\Out_Override\\FileTest.txt"
+	}]
+    }
+  ]
+}

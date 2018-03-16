@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: Microsoft.Samples.BizTalk.Adapter.Common, Configuration: Debug Any CPU ------
+1>  Microsoft.Samples.BizTalk.Adapter.Common -> C:\Users\Nino\Documents\GrabCaster\Research and Development\File Adapter (2)\File Adapter\BaseAdapter\v1.0.2\bin\Debug\Microsoft.Samples.BizTalk.Adapter.Common.dll
+2>------ Rebuild All started: Project: DotNetFile, Configuration: Debug Any CPU ------
+2>  DotNetFile -> C:\Users\Nino\Documents\GrabCaster\Research and Development\File Adapter (2)\File Adapter\Runtime\bin\Debug\Microsoft.BizTalk.SDKSamples.Adapters.DotNetFile.Runtime.dll
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========

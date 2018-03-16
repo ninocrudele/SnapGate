@@ -1,0 +1,15 @@
+AzureBlobTrigger
+AzureQueueTrigger
+AzureTopicTrigger
+BULKSQLServerTrigger
+ChatTrigger
+CSharpTrigger
+EmbeddedTrigger
+ETW
+EventHubsTrigger
+EventViewerTrigger
+FileTrigger
+NOPTrigger
+PowershellTrigger
+RfidTrigger
+SQLServerTrigger
