@@ -1,8 +1,7 @@
 # SnapGate
-s
+
 Author: Nino Crudele (@ninocrudele)  
-Blog: http://ninocrudele.me  
-Info: http://SnapGate.io  
+Blog: http://ninocrudele.com
 
 SnapGate is designed to allow end users, developers and IT users to integrate information and data into a variety of applications and systems, simply and easily.
 SnapGate eliminates all existing barriers by providing a new dynamic and easy way to integrate technologies and software.
