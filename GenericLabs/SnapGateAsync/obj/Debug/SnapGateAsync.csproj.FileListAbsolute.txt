@@ -1,0 +1,6 @@
+C:\SnapGate.Framework\SnapGate.Framework\GenericLabs\SnapGateAsync\bin\Debug\SnapGateAsync.exe.config
+C:\SnapGate.Framework\SnapGate.Framework\GenericLabs\SnapGateAsync\bin\Debug\SnapGateAsync.exe
+C:\SnapGate.Framework\SnapGate.Framework\GenericLabs\SnapGateAsync\bin\Debug\SnapGateAsync.pdb
+C:\SnapGate.Framework\SnapGate.Framework\GenericLabs\SnapGateAsync\obj\Debug\SnapGateAsync.csproj.CoreCompileInputs.cache
+C:\SnapGate.Framework\SnapGate.Framework\GenericLabs\SnapGateAsync\obj\Debug\SnapGateAsync.exe
+C:\SnapGate.Framework\SnapGate.Framework\GenericLabs\SnapGateAsync\obj\Debug\SnapGateAsync.pdb

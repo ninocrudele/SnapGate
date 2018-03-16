@@ -1,0 +1,14 @@
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\SnapGate.Framework.Serialization.Object.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\SnapGate.Framework.Serialization.Object.pdb
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\SnapGate.Framework.Base.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\Microsoft.ServiceBus.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\Newtonsoft.Json.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\SnapGate.Framework.Base.pdb
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\SnapGate.Framework.Base.dll.config
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\Microsoft.ServiceBus.xml
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\bin\Debug\Newtonsoft.Json.xml
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\obj\Debug\SnapGate.Framework.Serialization.Object.csprojResolveAssemblyReference.cache
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\obj\Debug\SnapGate.Framework.Serialization.Object.csproj.CoreCompileInputs.cache
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\obj\Debug\SnapGate.Framework.Serialization.Object.csproj.CopyComplete
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\obj\Debug\SnapGate.Framework.Serialization.Object.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.Serialization.Object\obj\Debug\SnapGate.Framework.Serialization.Object.pdb

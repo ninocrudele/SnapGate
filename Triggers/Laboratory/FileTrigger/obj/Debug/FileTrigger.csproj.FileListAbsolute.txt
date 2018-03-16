@@ -1,0 +1,6 @@
+C:\SnapGate.Framework\SnapGate.Framework\Triggers\Laboratory\FileTrigger\bin\Debug\FileTrigger.exe.config
+C:\SnapGate.Framework\SnapGate.Framework\Triggers\Laboratory\FileTrigger\bin\Debug\FileTrigger.exe
+C:\SnapGate.Framework\SnapGate.Framework\Triggers\Laboratory\FileTrigger\bin\Debug\FileTrigger.pdb
+C:\SnapGate.Framework\SnapGate.Framework\Triggers\Laboratory\FileTrigger\obj\Debug\FileTrigger.csproj.CoreCompileInputs.cache
+C:\SnapGate.Framework\SnapGate.Framework\Triggers\Laboratory\FileTrigger\obj\Debug\FileTrigger.exe
+C:\SnapGate.Framework\SnapGate.Framework\Triggers\Laboratory\FileTrigger\obj\Debug\FileTrigger.pdb

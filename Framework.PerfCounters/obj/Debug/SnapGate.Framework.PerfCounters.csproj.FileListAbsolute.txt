@@ -1,0 +1,15 @@
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\SnapGate.Framework.PerfCounters.dll.config
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\SnapGate.Framework.PerfCounters.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\SnapGate.Framework.PerfCounters.pdb
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\SnapGate.Framework.Base.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\Microsoft.ServiceBus.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\Newtonsoft.Json.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\SnapGate.Framework.Base.pdb
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\SnapGate.Framework.Base.dll.config
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\Microsoft.ServiceBus.xml
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\bin\Debug\Newtonsoft.Json.xml
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\obj\Debug\SnapGate.Framework.PerfCounters.csprojResolveAssemblyReference.cache
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\obj\Debug\SnapGate.Framework.PerfCounters.csproj.CoreCompileInputs.cache
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\obj\Debug\SnapGate.Framework.PerfCounters.csproj.CopyComplete
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\obj\Debug\SnapGate.Framework.PerfCounters.dll
+C:\SnapGate.Framework\SnapGate.Framework\Framework.PerfCounters\obj\Debug\SnapGate.Framework.PerfCounters.pdb

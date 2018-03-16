@@ -1,0 +1,2 @@
+C:\SnapGate.Framework\SnapGate.Framework\Components\SnapGate.Framework.BTSPipelineComponent\obj\Debug\SnapGate.Framework.BTSPipelineComponent.csprojResolveAssemblyReference.cache
+C:\SnapGate.Framework\SnapGate.Framework\Components\SnapGate.Framework.BTSPipelineComponent\obj\Debug\SnapGate.Framework.BTSPipelineComponent.csproj.CoreCompileInputs.cache

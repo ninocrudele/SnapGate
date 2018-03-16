@@ -1,0 +1,1 @@
+C:\SnapGate.Framework\SnapGate.Framework\Components\SnapGate.Framework.BTSTransformComponent\obj\Debug\SnapGate.Framework.BTSTransformComponent.csproj.CoreCompileInputs.cache
